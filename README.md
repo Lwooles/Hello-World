@@ -1,2 +1,3 @@
 # Hello-World
-A simple respoitory
+
+This is a simple project that will output the text "Hello world" to the screen.
